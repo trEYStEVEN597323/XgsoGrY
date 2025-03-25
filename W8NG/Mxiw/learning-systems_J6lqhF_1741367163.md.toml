@@ -1,5 +1,4 @@
   publish = "build"
-  command = "npm -g install magicbook && magicbook build"
 
 [[redirects]]
   from = "/"
