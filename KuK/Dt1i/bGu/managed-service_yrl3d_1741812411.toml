@@ -26,7 +26,6 @@ delay = 500 # ms
 [log]
 # Show log time
 time = true
-[color]
 
 [misc]
 # Delete tmp directory on exit
