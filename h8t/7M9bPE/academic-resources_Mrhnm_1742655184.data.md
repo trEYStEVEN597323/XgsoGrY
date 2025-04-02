@@ -1,5 +1,4 @@
 # List of authors
-
 - Anderson, John
 - Arun Tejasvi Chaganty
 - Arzt, Andreas
