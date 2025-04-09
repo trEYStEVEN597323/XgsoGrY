@@ -44,7 +44,6 @@
       "dependencies": [
         "check",
         "test"
-      ]
     },
     "hooks:install": "deno run --allow-read=deno.json,.git/hooks/ --allow-write=.git/hooks/ jsr:@hongminhee/deno-task-hooks",
     "hooks:pre-commit": {
